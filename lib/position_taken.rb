@@ -2,4 +2,4 @@
 
 def position_taken?(board, index)
   
-End
+end
